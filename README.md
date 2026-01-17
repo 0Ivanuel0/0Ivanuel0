@@ -7,6 +7,7 @@
 var developer = new 
 {
     name = "Ivan",
+    age = "18",
     focus = "Backend", 
     stack = new[] { "C#", "JavaScript", "HTML", "CSS", "Python", "Git" },
     passion = "Improvement Skills"
@@ -14,14 +15,6 @@ var developer = new
 ```
 <hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
 
-<!-- <details>
-<summary><b>🇷🇺 Русская версия</b></summary>
-
-### 👨‍💻 Обо мне
-Првиет! Я Начинающий **full-stack разразботчик**. Мое обучение проходит в **Уральском Федеральном Университете** по программе **Прикладная Информатика**.
-
-### 🛠️ Стек технологий
-</details> -->
 
 <div align="center">
 <table>
@@ -30,14 +23,31 @@ var developer = new
       
 ### 👨‍💻 About Me
 Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Federal University** in the **Applied Computer Science** program.
-    
+
+<details>
+<summary><b>🇷🇺</b></summary>
+  
+### 👨‍💻 Обо мне
+Првиет! Я Начинающий **full-stack разразботчик**. Мое обучение проходит в **Уральском Федеральном Университете** по программе **Прикладная Информатика**.
+</details> 
+
 ### 🛠️ Technology stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,github,obsidian&theme=dark" />
   </a>
 </p>
+</div>
+
+### 🎯 What's Next 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,react,postgres,java,linux,&theme=dark" />
+  </a>
+</p>
+</div>
     </td>
     <td valign="top" width="50%">
   <img src="https://github-stats-4xj3zfbbu-xfervent123s-projects.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" width="100%"/>
