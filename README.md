@@ -23,23 +23,25 @@ var developer = new
 ### 🛠️ Стек технологий
 </details> -->
 
-
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
       
 ### 👨‍💻 About Me
 Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Federal University** in the **Applied Computer Science** program.
-
+    
 ### 🛠️ Technology stack
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,github,obsidian&theme=dark" />
   </a>
 </p>
-
-### 📊 Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=radical&hide_border=true)
-
-
-
+    </td>
+    <td valign="top" width="50%">
+  <img src="https://github-stats-4xj3zfbbu-xfervent123s-projects.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" width="100%"/>
+</div>
 
 
 
