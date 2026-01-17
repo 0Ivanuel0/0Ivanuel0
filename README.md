@@ -58,17 +58,12 @@ fds
   </table>
 </div>
 
-<div align="center">
-  
-### 📱 Contact Me
-  <div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0;">
-    <a href="https://t.me/I_vam" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </div>
+
+<div align="center" style="width: 100%;">
+  <a href="https://t.me/I_vam" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00BFFF&width=600&height=100&lines=-->+Write+Me+In+Telegram+<--" alt="Contact Me" />
+  </a>
 </div>
-
-
 
 
 
