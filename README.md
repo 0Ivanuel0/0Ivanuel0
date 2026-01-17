@@ -1,8 +1,6 @@
-<div style="margin-left: 20px;">
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=35&duration=4000&pause=1000&color=fff&width=800&height=100&lines=Hello%2C+I'm+Ivan!;Full+Stack+Developer;Code+%E2%80%A2+Create+%E2%80%A2+Tea" alt="Typing animation" />
 </p>
-</div>
 
 ```csharp
 var developer = new 
@@ -15,7 +13,6 @@ var developer = new
 };
 ```
 <hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
-
 
 <div align="center">
 <table>
@@ -58,6 +55,10 @@ fds
   </table>
 </div>
 
+<hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
+
+
+<hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
 
 <div align="center" style="width: 100%;">
   <a href="https://t.me/I_vam" target="_blank">
