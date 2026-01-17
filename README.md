@@ -12,3 +12,37 @@ var developer = new
     passion = "Improvement Skills"
 };
 ```
+<hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
+
+<!-- <details>
+<summary><b>🇷🇺 Русская версия</b></summary>
+
+### 👨‍💻 Обо мне
+Првиет! Я Начинающий **full-stack разразботчик**. Мое обучение проходит в **Уральском Федеральном Университете** по программе **Прикладная Информатика**.
+
+### 🛠️ Стек технологий
+</details> -->
+
+
+      
+### 👨‍💻 About Me
+Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Federal University** in the **Applied Computer Science** program.
+
+### 🛠️ Technology stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,github,obsidian&theme=dark" />
+  </a>
+</p>
+
+### 📊 Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=radical&hide_border=true)
+
+
+
+
+
+
+
+
+
