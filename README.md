@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=35&duration=4000&pause=1000&color=fff&center=true&width=800&height=120&lines=Hello%2C+I'm+Ivan!;Full+Stack+Developer;Code+%E2%80%A2+Create+%E2%80%A2+Tea" alt="Typing animation" />
+<div style="margin-left: 20px;">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=35&duration=4000&pause=1000&color=fff&width=800&height=100&lines=Hello%2C+I'm+Ivan!;Full+Stack+Developer;Code+%E2%80%A2+Create+%E2%80%A2+Tea" alt="Typing animation" />
 </p>
-
+</div>
 
 ```csharp
 var developer = new 
@@ -50,9 +51,30 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
 </div>
     </td>
     <td valign="top" width="50%">
-  <img src="https://github-stats-4xj3zfbbu-xfervent123s-projects.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" width="100%"/>
+
+### 📊 Statistics
+fds
+    </tr>
+  </table>
 </div>
 
+<div align="center">
+
+## Contact Me
+
+<div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0;">
+<!-- Email -->
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+</a>
+<!-- Telegram -->
+<a href="https://t.me/@I_vam target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</div>
+
+</div>
 
 
 
