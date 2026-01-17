@@ -59,18 +59,16 @@ fds
 </div>
 
 <div align="center">
-
-## Contact Me
-
-<div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0;">
-<!-- Telegram -->
-<a href="https://t.me/I_vam" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
+  
+### 📱 Contact Me
+  <div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0;">
+    <a href="https://t.me/I_vam" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </div>
 </div>
 
-</div>
+
 
 
 
