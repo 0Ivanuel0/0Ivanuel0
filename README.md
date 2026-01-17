@@ -68,7 +68,7 @@ fds
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
 </a>
 <!-- Telegram -->
-<a href="https://t.me/@I_vam target="_blank">
+<a href="https://t.me/I_vam target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
