@@ -28,6 +28,7 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
 ### 👨‍💻 Обо мне
 Првиет! Я Начинающий **full-stack разразботчик**. Мое обучение проходит в **Уральском Федеральном Университете** по программе **Прикладная Информатика**.
 </details> 
+<br/>
 
 ### 🛠️ Technology stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -49,14 +50,17 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
     </td>
     <td valign="top" width="50%">
 
-### 📊 Statistics
-fds
+<img src="https://github-readme-stats.vercel.app/api?username=0Ivanuel0&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=github_dark&hide_border=true" width="100%" />
     </tr>
   </table>
 </div>
 
 <hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Ivanuel0&theme=github-dark&hide_border=true" width="100%"/>
+</div>
 
 <hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
 
