@@ -29,6 +29,8 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
 Првиет! Я Начинающий **full-stack разразботчик**. Мое обучение проходит в **Уральском Федеральном Университете** по программе **Прикладная Информатика**.
 </details> 
 
+<hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
+
 ### 🛠️ Technology stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <p align="left">
