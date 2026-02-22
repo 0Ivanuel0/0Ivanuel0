@@ -44,15 +44,15 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,postgres,java,linux,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,ts,react,postgres,docker,java,linux,&theme=dark" />
   </a>
 </p>
 </div>
     </td>
     <td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0Ivanuel0&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=github_dark&hide_border=true" width="100%" />
+      
+<img src="https://stats-bx55.vercel.app/api?username=0Ivanuel0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=0Ivanuel0's+Stats" width="100%" />
+<img src="https://stats-bx55.vercel.app/api/top-langs/?username=0Ivanuel0&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
     </tr>
   </table>
 </div>
