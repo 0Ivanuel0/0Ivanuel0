@@ -57,13 +57,6 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
   </table>
 </div>
 
-<hr style="height: 3px; border: none; background: linear-gradient(90deg, #f5f, #36BCF7);">
-
-<div align="center" style="width: 100%;">
-  <a href="https://t.me/I_vam" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00BFFF&width=600&height=100&lines=-->+Write+Me+In+Telegram+<--" alt="Contact Me" />
-  </a>
-</div>
 
 
 
