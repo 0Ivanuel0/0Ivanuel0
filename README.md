@@ -35,7 +35,7 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,github,obsidian&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,ts,react,git,postgres&theme=dark" />
   </a>
 </p>
 </div>
@@ -44,7 +44,7 @@ Hello! I'm a beginner **full-stack developer**. I'm studying at the **Ural Feder
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,ts,react,postgres,docker,java,linux,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,java,linux,&theme=dark" />
   </a>
 </p>
 </div>
